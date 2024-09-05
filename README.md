@@ -17,5 +17,5 @@ We can see the results with this model.
 ![image](https://github.com/Papripa/IBED/blob/main/CM.png)
 ### Train performance
 ![image](https://github.com/Papripa/IBED/blob/main/Train.png)
-4. Implemented the model on Arduino 33 BLE sense. We used the quantization technique and imported it to the board.
-6. Designed the visualization and entertainment page with sound effects.
+3. Implemented the model on Arduino 33 BLE sense. We used the quantization technique and imported it to the board.
+4. Designed the visualization and entertainment page with sound effects.
